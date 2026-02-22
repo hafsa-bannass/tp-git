@@ -1,4 +1,3 @@
 **TP Git**
 Ce tp est un TP git.
-<<<<<<< HEAD
-*Branche Feature/conflit-b*
+*Branche Feature/rebase-demo*
